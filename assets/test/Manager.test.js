@@ -1,5 +1,17 @@
 // link to manager class
 
-// officeNumber
+describe("Manager", () => {
+  // officeNumber
+  // // it should have a officenumber input
+  it("should have a officenumber input", () => {
+    // // officeNum = officeNum
+  });
 
-// getRole() -- overridden to return Manager
+  describe("getRole", () => {
+    // getRole()
+    // // it should overridden to return Manager
+    it("should overridden to return Manager", () => {
+      // // expect role = role
+    });
+  });
+});
