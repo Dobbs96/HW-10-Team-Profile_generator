@@ -1,6 +1,5 @@
 // link to manager class
-
-const { expect } = require("@jest/globals");
+const Manager = require("../lib/Manager");
 
 describe("Manager", () => {
   // officeNumber

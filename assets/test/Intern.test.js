@@ -1,4 +1,5 @@
 // link to intern class
+const Intern = require("../lib/Intern");
 
 describe("Intern", () => {
   // school

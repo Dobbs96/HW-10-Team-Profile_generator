@@ -4,6 +4,8 @@
 
 Team Profile Generator should generator a working team onto a html format. I will use both npm jest and inquirer to help build each card. Jest will help test what i need to solve. It will help keep track of my coding. There are four type of Employees; Employee, Engineer, Intern, and Manager. Please see gif below for a quick walkthrough.
 
+Jest is very helpful in finding what you have done. It cant watch evertime you save so you know if you are passing what you want to be done. It helped me find all my small mistake making this project as you can find below.
+
 ## Licensing
 
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
@@ -40,6 +42,8 @@ This README was Created by [Dobbs96](https://github.com/Dobbs96) READMEs Generat
 - [NPM Inquirer](https://www.npmjs.com/package/inquirer)
 - [NPM Jest](https://www.npmjs.com/package/jest)
 - [Boot Strap](https://getbootstrap.com/)
+- [Traversy Media](https://www.youtube.com/watch?v=vDJpGenyHaA&t=645s)
+  - Class and subClass & more
 
 ## Questions
 

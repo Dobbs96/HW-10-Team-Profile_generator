@@ -1,4 +1,5 @@
 // link to Employee class
+const Employee = require("../lib/Employee");
 
 // Employee
 describe("Employee Info", () => {

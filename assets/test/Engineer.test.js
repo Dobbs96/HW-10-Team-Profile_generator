@@ -1,4 +1,5 @@
 // link to engineer class
+const Engineer = require("../lib/Engineer");
 
 describe("GitHub UserName", () => {
   // github username
