@@ -26,7 +26,13 @@ Feel free to clone and alter to fix your needs.
 
 ## Tests
 
-gif here
+### **All pass test**
+
+![Final Test](./assets/imgVid/Final-Test-All-Pass.gif)
+
+### **See Fail**
+
+![Test Fail](./assets/imgVid/Test-Employee.gif)
 
 ## How To
 
