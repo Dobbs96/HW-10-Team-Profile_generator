@@ -8,8 +8,10 @@ const Manager = require("./assets/lib/Manager");
 const emps = [];
 
 // startGenerator()
+// // startHTML()
 // // addEmps()
-// // writeHTML()
+// // appendHTML()
+// // endHTML
 
 // addEmps()
 // // inquirer promps
@@ -23,4 +25,12 @@ const emps = [];
 // // // // add Employee to emps array
 // // // list, Are their more Employees to add? ; {Yes, No} , moreEmps
 // // // if Yes --- Start Again addEmps()
-// // // if No --- end writeHTML
+// // // if No --- end writeHTML()
+
+// startHTML()
+// // appendHTML() for each class pull from emps array
+// // // if Engineer append engineerHTML
+// // // if Intern append interHTML
+// // // if Manager append managerHTML
+// Remove Employee from emps array
+// append end html = endHTML()
