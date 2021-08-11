@@ -1,0 +1,14 @@
+div {
+  margin: auto;
+}
+
+body {
+  background-color: rgb(136, 217, 255);
+}
+header {
+  background-color: rgb(130, 209, 255) !important;
+}
+
+.container {
+  display: flex;
+}
