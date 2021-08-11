@@ -34,6 +34,10 @@ Feel free to clone and alter to fix your needs.
 
 ![Test Fail](./assets/imgVid/Test-Employee.gif)
 
+### **FINAL RESULTS**
+
+![Final Results](./assets/imgVid/Final-Results.gif)
+
 ## How To
 
 1. Clone Repo to you source-code editor.
